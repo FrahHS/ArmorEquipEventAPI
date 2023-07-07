@@ -1,0 +1,4 @@
+name: ArmorEquipEventAPI
+version: '${project.version}'
+main: com.frahhs.armorequipeventapi.ArmorEquipEventAPI
+api-version: '1.19'
